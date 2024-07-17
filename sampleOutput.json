@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Duo euthanasia: Why a happily married couple decided to die together",
+        "description": "Jan and Els sought medical intervention to end their lives after 50 happy years of marriage.",
+        "url": "https://www.bbc.co.uk/news/articles/c0jjq2vynq7o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5bb1/live/d655a720-33a6-11ef-bbb9-0347a45c614d.jpg",
+        "publishedAt": "2024-06-30T03:37:13.1047969Z",
+        "content": "Three days before they voluntarily take their last breath, Jan and Els campervan sits on a sunlit marina in Friesland, in the Netherlands north. Theyre a couple who love being mobile, and have lived … [+2232 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Karen Read: What to know about the murder trial as jury deliberates",
+        "description": "The jury in the murder trial that has captivated the US is now deliberating and could render a verdict soon.",
+        "url": "https://www.bbc.co.uk/news/articles/c880r1l7dn5o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/56af/live/93ada3a0-3662-11ef-a100-3b964d30e601.jpg",
+        "publishedAt": "2024-06-30T02:52:11.8989386Z",
+        "content": "Ms Read did not take the stand as part of her defence. \r\nInstead, her lawyers argued that she was framed, and that investigators had inappropriate relationships with witnesses and others involved in … [+987 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "France votes as far-right National Rally hopes to make history",
+        "description": "Jordan Bardella and Marine Le Pen's National Rally hopes to assume power for the first time.",
+        "url": "https://www.bbc.co.uk/news/articles/c2j3ldl1mepo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6fdf/live/624d7af0-363b-11ef-b1e5-f7890e7af6c7.jpg",
+        "publishedAt": "2024-06-30T02:07:16.6181543Z",
+        "content": "Last week, on a hot evening in Meaux, east of Paris, one of LFIs most senior figures, Mathilde Panot told supporters they were the only focus of resistance remaining to the rise of the far right, acc… [+931 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "UFOs: From psychology to air traffic, are we closer now to an answer?",
+        "description": "Why modern technology puts us in a stronger position than ever to work out what's going on in the skies above us.",
+        "url": "https://www.bbc.co.uk/news/articles/cn09l9w08pgo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/135f/live/f79a9a30-3568-11ef-b6d9-e13f185918e1.jpg",
+        "publishedAt": "2024-06-30T02:07:15.024801Z",
+        "content": "Around the mid-1970s to early 1980s, Dr Marks says developments were taking place in the UK exploring hot air balloons and airships - and some \"would resemble traditional UFOs\".\r\nHe notes, however, t… [+1181 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Hikikomori: Why Korean parents are choosing to be shut in a cell",
+        "description": "Some South Koreans are spending time in a cell to try to understand their socially isolated children.",
+        "url": "https://www.bbc.co.uk/news/articles/c2x0le06kn7o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f0a5/live/15c2ab90-3467-11ef-a044-9d4367d5b599.jpg",
+        "publishedAt": "2024-06-30T01:52:12.867514Z",
+        "content": "In Japan, the first wave of young people isolating themselves, in the 1990s, has led to a demographic of middle-aged people dependent on their elderly parents. \r\nAnd trying to support their adult chi… [+1186 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Glastonbury: A-list stars turn out for ‘awesome’ Coldplay show",
+        "description": "They duetted with Michael J Fox, and serenaded Michael Eavis, in an all-out assault on the senses.",
+        "url": "https://www.bbc.co.uk/news/articles/c0kr82k58qqo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e37a/live/fd978f20-3670-11ef-9812-47c6036a038a.jpg",
+        "publishedAt": "2024-06-30T01:37:15.8206467Z",
+        "content": "Like Dua Lipa on Friday night, they understand the brief: You cant turn up to Glastonbury and play the same old festival set. It has to feel special.\r\nThey start with Yellow. Yes, Yellow. A song any … [+1832 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ukraine: Zelensky renews long-range arms call after deadly attack",
+        "description": "The Ukrainian president says more missiles and air defences are needed after a Russian strike kills seven.",
+        "url": "https://www.bbc.co.uk/news/articles/c7281yly9n4o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1116/live/72d45b00-365e-11ef-9634-ff62d869ed19.jpg",
+        "publishedAt": "2024-06-29T22:52:12.3981422Z",
+        "content": "Ukrainian President Volodymyr Zelensky has renewed his appeal for more long-range weapons and air defences after a missile attack killed seven people including two children.\r\nThe Russian attack on th… [+2276 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Hurricane Beryl: Season's first hurricane to hit Caribbean",
+        "description": "The system developed into a hurricane on Saturday, and it is expected to threaten the Caribbean over the weekend.",
+        "url": "https://www.bbc.co.uk/news/articles/cgrlk5gp24ro",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/93ad/live/8834e0d0-3638-11ef-bbe0-29f79e992ddd.jpg",
+        "publishedAt": "2024-06-29T21:52:16.8665534Z",
+        "content": "Barbados' meteorological service issued warnings of power outages and flash flooding, as the eye of the hurricane is expected to pass about 26 miles (45 km) south of the island.\r\nThe storm is expecte… [+1603 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Sri Lanka fishermen die after drinking from bottles found in sea",
+        "description": "The fishermen drank the contents of the bottles thinking it was alcohol, local media reports.",
+        "url": "https://www.bbc.co.uk/news/articles/crgej1z0rwwo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11e4/live/6ce83240-3643-11ef-be61-85a25a402c6d.jpg",
+        "publishedAt": "2024-06-29T19:37:11.7563366Z",
+        "content": "Four Sri Lankan fishermen have died and another two are critically ill after consuming an unknown liquid from bottles they found while at sea, according to local media reports.\r\nThe sailors were said… [+1324 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "First Liberal MP calls on Prime Minister Justin Trudeau to quit",
+        "description": "In an email to fellow members, MP Wayne Long said Trudeau should resign \"for the good of our country\".",
+        "url": "https://www.bbc.co.uk/news/articles/c9781gr02p5o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fc2d/live/8d969890-35be-11ef-8c75-b3be4a7d26ba.jpg",
+        "publishedAt": "2024-06-29T03:52:11.1319841Z",
+        "content": "A backbench MP has become the first sitting member of Canadian Prime Minister Justin Trudeaus Liberal Party caucus to call on him to resign, after a disastrous by-election defeat.\r\nWayne Long said ne… [+2217 chars]"
+      }
+    ]
+  }
